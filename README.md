@@ -95,6 +95,15 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay1535&show_icons=true&locale=en&layout=compact" alt="jay1535" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay1535&show_icons=true&locale=en" alt="jay1535" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay1535&" alt="jay1535" /></p>
+<!-- GitHub Stats -->
+<div style="background-color:#f02088; padding:10px; border-radius:10px;">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay1535&show_icons=true&locale=en&layout=compact" alt="jay1535" /></p>
+</div>
+
+<div style="background-color:#3d3d6b; padding:10px; border-radius:10px; clear:both;">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay1535&show_icons=true&locale=en" alt="jay1535" /></p>
+</div>
+
+<div align="center" style="background-color:#f73a79; padding:10px; border-radius:10px;">
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jay1535&" alt="jay1535" /></p>
+</div>
