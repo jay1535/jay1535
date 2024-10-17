@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Cloud Computing**, **SpringBoot**
+- 🌱 I’m currently learning **DSA In Java And**, **SpringBoot**
 - 💬 Ask me about **React.js**, **Node.js**, **SQL**
 - 📫 How to reach me: **habbujayanth@gmail.com**
 
