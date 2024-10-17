@@ -11,8 +11,8 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Cloud Computing**
-- 💬 Ask me about **React**
+- 🌱 I’m currently learning **Cloud Computing**, **SpringBoot**
+- 💬 Ask me about **React.js**, **Node.js**, **SQL**
 - 📫 How to reach me: **habbujayanth@gmail.com**
 
 <h3 align="left">🚀 Connect with me:</h3>
