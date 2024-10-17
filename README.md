@@ -17,7 +17,7 @@
 
 <h3 align="left">🚀 Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/jay1535" target="blank">
+  <a href="https://www.linkedin.com/in/jayant-habbu-12713725a/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
   </a>
 </p>
