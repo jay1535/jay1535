@@ -3,7 +3,12 @@
   
 
 
-<h2 align="center">Hi, I'm Jayant R Habbu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /></h2>
+<p align="center">
+  
+  <img src="./assets/header.svg" alt="Hi, I'm Jayant R Habbu" />
+  
+</p>
+
 
 <p align="center">
   <b>Software Engineer & Full-Stack Developer</b>
@@ -29,25 +34,28 @@
 
 ---
 
-<h2>🌱 Currently Working On </h2>
-- Strengthening **Data Structures & Algorithms** for problem-solving excellence
-- Developing **full-stack applications** with scalable architectures
-- Exploring best practices in **modern frontend and backend development**
+<h2> 🌱 Currently Working On </h2>
+
+- 🧠 Strengthening **Data Structures & Algorithms** with a strong problem-solving focus  
+- 🌐 Building **full-stack applications** using scalable and maintainable architectures  
+- ⚙️ Exploring best practices in **modern frontend and backend development**
 
 ---
 
-<h2> 💬 You Can Ask Me About </h2>
-- Full-Stack Web Development (React, Next.js, MERN)
-- Backend APIs and system design
-- Java programming and DSA concepts
-- Building clean and maintainable web applications
+<h2>💬 You Can Ask Me About</h2>
+
+- ⚛️ **Full-Stack Web Development** (React, Next.js, MERN Stack)  
+- 🔧 **Backend APIs & System Design**  
+- ☕ **Java Programming & DSA Concepts**  
+- ✨ Writing **clean, maintainable, and efficient code**
 
 ---
 
-<h2> 📫 Contact </h2>
-📧 **Email:** habbujayanth@gmail.com
+<h2>📫 Contact </h2>
 
-💼 Open to collaboration, learning, and exciting opportunities
+- 📧 **Email:** `habbujayanth@gmail.com`  
+- 💼 Open to **collaboration, learning opportunities, and exciting projects**
+
 
 
 
