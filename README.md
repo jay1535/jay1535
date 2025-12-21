@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="./assets/gitgif-removebg-preview.png" alt="Hi, I'm Jayant R Habbu" />
+  
   <img src="./assets/header.svg" alt="Hi, I'm Jayant R Habbu" />
   
 </p>
