@@ -68,6 +68,10 @@
 <img src="./assets/express.svg" width="50" style="margin:10px; background:white; padding:10px; border-radius:12px;">
 <img src="./assets/mongodb.svg" width="50" style="margin:10px; background:white; padding:10px; border-radius:12px;">
 <img src="./assets/nextjs.svg" width="50" style="margin:10px; background:white; padding:10px; border-radius:12px;">
+<img src="./assets/Django.svg" width="50" style="margin:10px; background:white; padding:10px; border-radius:12px;">
+<img src="./assets/Flask.svg" width="50" style="margin:10px; background:white; padding:10px; border-radius:12px;">
+<img src="./assets/Figma.svg" width="50" style="margin:10px; background:white; padding:10px; border-radius:12px;">
+<img src="./assets/Jest.svg" width="50" style="margin:10px; background:white; padding:10px; border-radius:12px;">
 
 <br/>
 
@@ -76,6 +80,7 @@
 <img src="./assets/flutter.svg" width="50" style="margin:10px; background:white; padding:10px; border-radius:12px;">
 <img src="./assets/git.svg" width="50" style="margin:10px; background:white; padding:10px; border-radius:12px;">
 <img src="./assets/github.svg" width="50" style="margin:10px; background:white; padding:10px; border-radius:12px;">
+<img src="./assets/Firebase.svg" width="50" style="margin:10px; background:white; padding:10px; border-radius:12px;">
 
 </div>
 
