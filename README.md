@@ -1,43 +1,59 @@
-<!-- ================= GITHUB TROPHY ================= -->
+<!-- ================= INTRO WITH WAVING HAND ================= -->
+
+  
+
+
+<h2 align="center">Hi, I'm Jayant R Habbu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /></h2>
+
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=jay1535&theme=radical&margin-w=15&margin-h=15&column=4"
-    alt="GitHub Trophy"
-  />
+  <b>Software Engineer & Full-Stack Developer</b>
 </p>
 
-<!-- ================= HEADER ================= -->
-<div align="center">
+<p align="center">
+  I design and develop modern, scalable, and user-focused web applications.
+  <br/>
+  I enjoy solving complex problems, writing clean and maintainable code,
+  and continuously improving my technical skills.
+</p>
 
-<h1>Hi 👋, I'm <span style="color:#ffdf6b;">Jayant</span></h1>
+<p align="center">
+  <b>Core Focus:</b>
+  Full-Stack Development &nbsp;|&nbsp;
+  Data Structures & Algorithms &nbsp;|&nbsp;
+  Modern Web Technologies
+</p>
 
-<h3>
-A passionate Software Engineer & Full-Stack Developer who loves building scalable systems and elegant web solutions 🚀
-</h3>
-
-<img src="https://komarev.com/ghpvc/?username=jay1535&label=Profile%20Views&color=00eaff&style=flat" />
-
-</div>
-
----
-
-## 🌱 What I'm Learning
-- **Data Structures & Algorithms (Java)**
-- **Advanced Full-Stack Web Development**
-
----
-
-## 💬 Ask Me About
-**React · Java · MERN Stack · DSA · Modern Web Apps**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jay1535&label=Profile%20Views&color=00BFFF&style=flat" />
+</p>
 
 ---
 
-## 📫 Contact
-📧 **Email:** habbujayanth@gmail.com  
+<h2>🌱 Currently Working On </h2>
+- Strengthening **Data Structures & Algorithms** for problem-solving excellence
+- Developing **full-stack applications** with scalable architectures
+- Exploring best practices in **modern frontend and backend development**
 
 ---
 
-## 🌐 Connect With Me
+<h2> 💬 You Can Ask Me About </h2>
+- Full-Stack Web Development (React, Next.js, MERN)
+- Backend APIs and system design
+- Java programming and DSA concepts
+- Building clean and maintainable web applications
+
+---
+
+<h2> 📫 Contact </h2>
+📧 **Email:** habbujayanth@gmail.com
+
+💼 Open to collaboration, learning, and exciting opportunities
+
+
+
+
+
+<h2> 🌐 Connect With Me </h2>
 <p align="center">
   <a href="https://twitter.com/jayanth"><img src="./assets/twitter.svg" width="45"/></a>
   <a href="https://linkedin.com/in/jayant-habbu"><img src="./assets/linkedin.svg" width="45"/></a>
@@ -46,10 +62,11 @@ A passionate Software Engineer & Full-Stack Developer who loves building scalabl
 
 ---
 
-## 🛠️ Skills & Technologies
+<h2 > 🛠️ Skills & Technologies </h2>
 
-### 🧑‍💻 Programming Languages
-<p align="center">
+
+<h4 >🧑‍💻 Programming Languages</h4>
+<p >
   <img src="./assets/java.svg" width="50"/>
   <img src="./assets/python.svg" width="50"/>
   <img src="./assets/c.svg" width="50"/>
@@ -58,8 +75,8 @@ A passionate Software Engineer & Full-Stack Developer who loves building scalabl
 
 ---
 
-### 🌐 Web Technologies
-<p align="center">
+<h4 > 🌐 Web Technologies</h4>
+<p >
   <img src="./assets/html.svg" width="50"/>
   <img src="./assets/css.svg" width="50"/>
   <img src="./assets/javascript.svg" width="50"/>
@@ -68,8 +85,8 @@ A passionate Software Engineer & Full-Stack Developer who loves building scalabl
 
 ---
 
-### ⚛️ Frameworks & Libraries
-<p align="center">
+<h4 >⚛️ Frameworks & Libraries</h4>
+<p >
   <img src="./assets/react.svg" width="50"/>
   <img src="./assets/nextjs.svg" width="50"/>
   <img src="./assets/nodejs.svg" width="50"/>
@@ -82,8 +99,8 @@ A passionate Software Engineer & Full-Stack Developer who loves building scalabl
 
 ---
 
-### 🗄️ Databases & Backend Services
-<p align="center">
+<h4 > 🗄️ Databases & Backend Services</h4>
+<p>
   <img src="./assets/mongodb.svg" width="50"/>
   <img src="./assets/MySQL.svg" width="50"/>
   <img src="./assets/PostgresSQL.svg" width="50"/>
@@ -92,8 +109,8 @@ A passionate Software Engineer & Full-Stack Developer who loves building scalabl
 
 ---
 
-### 🔧 Tools & Developer Utilities
-<p align="center">
+<h4 > 🔧 Tools & Developer Utilities</h4>
+<p>
   <img src="./assets/git.svg" width="50"/>
   <img src="./assets/github.svg" width="50"/>
   <img src="./assets/Postman.svg" width="50"/>
@@ -104,8 +121,8 @@ A passionate Software Engineer & Full-Stack Developer who loves building scalabl
 
 ---
 
-### 🖥️ IDEs & Platforms
-<p align="center">
+<h4 > 🖥️ IDEs & Platforms</h4>
+<p >
   <img src="./assets/VS Code.svg" width="50"/>
   <img src="./assets/IntelliJ IDEA.svg" width="50"/>
   <img src="./assets/PyCharm.svg" width="50"/>
@@ -114,7 +131,7 @@ A passionate Software Engineer & Full-Stack Developer who loves building scalabl
 
 ---
 
-## 📊 GitHub Stats
+<h2 >📊 GitHub Stats </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jay1535&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay1535&theme=tokyonight&hide_border=true" width="45%"/>
@@ -123,3 +140,7 @@ A passionate Software Engineer & Full-Stack Developer who loves building scalabl
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay1535&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
 </p>
+
+<div align="center">
+  <img src="./assets/Bottom.svg" />
+</div>
