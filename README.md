@@ -32,6 +32,10 @@
   <img src="https://komarev.com/ghpvc/?username=jay1535&label=Profile%20Views&color=00BFFF&style=flat" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jay1535/jay1535/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 <h2> 🌱 Currently Working On </h2>
@@ -154,7 +158,5 @@
 <div align="center">
   <img src="./assets/Bottom.svg" />
 </div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jay1535/jay1535/output/github-contribution-grid-snake.svg" />
-</p>
+
 
