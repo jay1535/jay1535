@@ -69,7 +69,8 @@
 
 <h2> 🌐 Connect With Me </h2>
 <p align="center">
-  <a href="https://twitter.com/jayanth"><img src="./assets/twitter.svg" width="45"/></a>
+
+
   <a href="https://linkedin.com/in/jayant-habbu"><img src="./assets/linkedin.svg" width="45"/></a>
   <a href="https://instagram.com/jayant._.762"><img src="./assets/insta.svg" width="45"/></a>
 </p>
