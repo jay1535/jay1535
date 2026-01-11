@@ -146,16 +146,10 @@
 
 ---
 
-<h2 >📊 GitHub Stats </h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jay1535&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jay1535&theme=tokyonight&hide_border=true" width="45%"/>
-</p>
-
  
 <p align="center">
   <img src="./assets/gitgif-removebg-preview.png" alt="Hi, I'm Jayant R Habbu" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay1535&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
+ 
 </p>
 
 <div align="center">
