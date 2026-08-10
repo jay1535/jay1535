@@ -12,7 +12,7 @@ matrix green as the single accent, white for supporting text.
 
 <br/>
 
-<img width="100%" src="./assets/matrix-bg.gif" alt="matrix rain banner" style="border-radius:8px;" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=00FF41&height=180&section=header&animation=twinkling" />
 
 <br/><br/>
 
@@ -194,5 +194,5 @@ open_to:
 <br/>
 
 <div align="center">
-  <img width="100%" src="./assets/matrix-bg.gif" alt="matrix rain footer" style="border-radius:8px;" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=00FF41&section=footer&height=140&animation=twinkling" />
 </div>
